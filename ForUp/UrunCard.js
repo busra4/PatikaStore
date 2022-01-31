@@ -19,4 +19,3 @@ const UrunCard = ({urun}) => {
   );
 };
 export default UrunCard;
-
