@@ -2,5 +2,5 @@
  
  # Patika.dev react-native egitimi odevi
  
- ## Ekran goruntusu eklenmistir.
-![](patikaStore.png)
+ ## Ekran goruntusu aşagidaki gibidir.
+![](patikastore.png)
