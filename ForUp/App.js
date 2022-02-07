@@ -35,7 +35,6 @@ function App() {
           <Text style={styles.Name}>PATIKASTORE</Text>
           </View>
         )}
-
         horizontal={false}
         numColumns={2}
         keyExtractor={item => item.id.toString()}
